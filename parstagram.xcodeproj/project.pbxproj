@@ -19,6 +19,7 @@
 		DDDC822523739ABA003A97A8 /* parstagramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDDC822423739ABA003A97A8 /* parstagramUITests.swift */; };
 		DDDC823323739C19003A97A8 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDDC823223739C19003A97A8 /* LoginViewController.swift */; };
 		DDDC823523739C36003A97A8 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDDC823423739C36003A97A8 /* FeedViewController.swift */; };
+		DDDC82372373A20D003A97A8 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDDC82362373A20D003A97A8 /* CameraViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		DDDC822623739ABA003A97A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DDDC823223739C19003A97A8 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		DDDC823423739C36003A97A8 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		DDDC82362373A20D003A97A8 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 				DDDC821023739ABA003A97A8 /* Info.plist */,
 				DDDC823223739C19003A97A8 /* LoginViewController.swift */,
 				DDDC823423739C36003A97A8 /* FeedViewController.swift */,
+				DDDC82362373A20D003A97A8 /* CameraViewController.swift */,
 			);
 			path = parstagram;
 			sourceTree = "<group>";
@@ -411,6 +414,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DDDC823323739C19003A97A8 /* LoginViewController.swift in Sources */,
+				DDDC82372373A20D003A97A8 /* CameraViewController.swift in Sources */,
 				DDDC820323739AB9003A97A8 /* AppDelegate.swift in Sources */,
 				DDDC823523739C36003A97A8 /* FeedViewController.swift in Sources */,
 				DDDC820523739AB9003A97A8 /* SceneDelegate.swift in Sources */,

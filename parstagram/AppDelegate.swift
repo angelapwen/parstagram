@@ -25,7 +25,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 configuration.server = "https://secret-escarpment-43763.herokuapp.com/parse"
             })
         )
-
+        
+       
+        
         
         return true
     }
